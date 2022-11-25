@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Socheny
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Socheny/Socheny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+致敬曾经的喜欢的人。
+
+愿她能够天天开心，快乐。
+
+所以我打算开发一个BLOG项目。
